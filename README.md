@@ -20,7 +20,7 @@ This repository is devoted to the course of **Natural Language Processing** for 
 - [`deepspeed_config.json`](deepspeed_config.json) JSON file containing DeepSpeed configuration
 
 ## Project
-The aim of the assignment is to apply the techniques we have learnt in class to analyse a text datasets.
+The aim of the assignment is to apply the techniques we have learnt in class to analyse a text dataset.
 
 OpenOrca-SlimOrca
 - Website: https://huggingface.co/datasets/Open-Orca/SlimOrca
